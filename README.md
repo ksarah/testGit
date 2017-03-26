@@ -1,3 +1,3 @@
 # testGit
 
-hello world !
+hello world ! test de -a -m
